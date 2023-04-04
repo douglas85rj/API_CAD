@@ -2,7 +2,7 @@
 
 API criada para uso corporativo.
 
-Escopo: Criar API que retorne dados cadastrais do banco de dados e retorne no formato JSON. 
+Escopo: Criar API que retorne dados cadastrais do banco de dado, no formato JSON sem implementação de REGEX ou utilização de biblioteca. 
 
 Tecnologias utilizadas:
 
