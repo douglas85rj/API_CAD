@@ -10,7 +10,7 @@ Tecnologias utilizadas:
 
 Antes de iniciar o servidor alterar os campos com as respectivas informações do seu banco de dados, as linhas estão comentadas no arquivo "dbconfig.js"Executar os comandos abaixo para instalar as dependências e iniciar o servidor local para os devidos testes:
 <code>
-Npm run install
+Npm install
 Npm start
 </code>
 
